@@ -3,7 +3,8 @@
 ## Requerimentos mínimos
 
 - PHP 8.2 (https://laravel.com/docs/11.x/deployment#server-requirements)
-- Composer 2.7 
+- Composer 2.7
+- Node 20
 
 ## Instalando o projeto
 
