@@ -1,5 +1,7 @@
 # Laravel Bootcamp utilizando Blade
 
+https://bootcamp.laravel.com/blade/installation
+
 ## Requerimentos mínimos
 
 - PHP 8.2 (https://laravel.com/docs/11.x/deployment#server-requirements)
